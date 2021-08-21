@@ -61,3 +61,5 @@ console.group("Círculo")
     const areaCirculo = PI * (radioCirculo **2)
     console.log("El área del círculo es: " + areaCirculo + "cm^2");
     console.groupEnd();
+
+    
